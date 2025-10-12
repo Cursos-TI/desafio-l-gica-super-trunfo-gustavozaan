@@ -88,7 +88,7 @@ int main() {
     printf("4. Pontos Turísticosz\n");
     printf("5. Densidade Demográfica\n");
     printf("6. Regras\n");
-    scanf("%¨d", escolhaJogador);
+    scanf("%d", escolhaJogador);
 
     switch (escolhaJogador)
     {
