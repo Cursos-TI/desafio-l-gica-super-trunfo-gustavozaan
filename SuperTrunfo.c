@@ -149,7 +149,7 @@ int main() {
         printf("3. Em caso de valores iguais, ocorre um EMPATE.\n");
     default:
            printf("Opção invalida. \n");
-    break;
+    break;}
         
 return 0;
 }
